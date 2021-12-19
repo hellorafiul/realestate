@@ -9,5 +9,4 @@ Live site link [`Realtor`](https://realestate-tan.vercel.app/)
 - Creating a User Interface using #ChakraUI
 - And most importantly fetching data from unlimited sources using RapidAPI
 
-## Deploy on Vercel
 
